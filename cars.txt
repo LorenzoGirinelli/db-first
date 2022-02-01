@@ -1,0 +1,9 @@
+Car
+
+car_id - SMALL - PRIMARY_KEY - NOTNULL - UNIQUE
+brand - VARCHAR(20) - NOTNULL
+type - VARCHAR(15) - NOTNULL
+model - VARCHAR(40) - NOTNULL
+year - YEAR - NOTNULL
+price - DECIMAL(7,2)
+color - VARCHAR(20)
